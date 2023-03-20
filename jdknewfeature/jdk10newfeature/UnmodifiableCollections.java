@@ -1,4 +1,4 @@
-package jdknewfeature.jdk9newfeature;
+package jdknewfeature.jdk10newfeature;
 
 import org.junit.jupiter.api.Test;
 
