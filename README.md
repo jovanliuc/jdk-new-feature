@@ -10,3 +10,5 @@
 > - [JDK 13 New Features](./jdknewfeature/jdk13newfeature)
 > - [JDK 14 New Features](./jdknewfeature/jdk14newfeature)
 > - [JDK 15 New Features](./jdknewfeature/jdk15newfeature)
+> - [JDK 16 New Features](./jdknewfeature/jdk16newfeature)
+> - [JDK 17 New Features](./jdknewfeature/jdk17newfeature)
