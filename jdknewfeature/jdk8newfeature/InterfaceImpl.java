@@ -1,4 +1,4 @@
-package jdknewfeature.jdk8newfeature.newinterface;
+package jdknewfeature.jdk8newfeature;
 
 public class InterfaceImpl implements FirstInterface, SecondInterface {
 

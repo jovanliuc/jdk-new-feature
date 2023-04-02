@@ -1,4 +1,4 @@
-package jdknewfeature.jdk8newfeature.functionalinterfaceandlambda;
+package jdknewfeature.jdk8newfeature;
 
 @FunctionalInterface
 public interface LambdaInterface {
